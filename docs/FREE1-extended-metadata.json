@@ -1,7 +1,7 @@
 {
   "itn": {
     "owner": "ed25519_pk18yyajrgmzdsxxyxxtl2tg09pd88cmwa66hv82j3tfpeuz4e07qeqc8mkc8",
-    "witness": "ed25519_sig1drsn3mlfq9cyy2cc25k9vewccdnrdf484s8fze8tgz2zldxzjdf922x99s3xzut56hqps20kkwwrhtj4h9n97c7k0exqenq2vcwyxpsvgzm8e"
+    "witness": "ed25519_sig1pdnwc4rvm03yjzghdt5dn6mfsgl7dxc73pnvvesz63tpll9ue73syn5rxgzwgdkjsggpcgysp6jnglml8m4d2kw7xvdn9csdha7jurcsfjmnt"
   },
   "adapools": {
         "location": "USA, Europe, Russia",
