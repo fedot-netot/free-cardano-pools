@@ -2,6 +2,6 @@
   "name": "Cardano FREE stake pool",
   "description": "Just a pool maintained by a few cardano enthusiasts. We try to make our pool as cost-effective and reliable as possible.",
   "ticker": "FREE1",
-  "homepage": "https://fedot-netot.github.io/free-pool/",
-  "extended": "https://fedot-netot.github.io/free-pool/FREE1-extended-metadata.json"
+  "homepage": "https://fedot-netot.github.io/free-cardano-pools/",
+  "extended": "https://fedot-netot.github.io/free-cardano-pools/FREE1-extended-metadata.json"
 }
