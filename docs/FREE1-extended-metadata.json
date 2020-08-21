@@ -5,7 +5,7 @@
   },
   "adapools": {
         "url_png_icon_64x64": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.64x64.png",
-        "url_png_icon": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
+        "url_png_logo": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
         "location": "USA, Europe, Russia",
         "social": {
             "twitter_handle": "",
