@@ -4,11 +4,11 @@
     "witness": "ed25519_sig16gffkk36c3vldj8rarqqvy9jl4cplwgrlslm055ff667k62p8qs6h4u40xvudjwwve6fl9kshe8kc75mvqceyye6dup0a2kp2hdngps2a35gc"
   },
   "info": {
-        "url_png_icon_64x64": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.64x64.png",
-        "url_png_logo": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
-        "location": "USA, Europe, Russia",
-        "social": {
-            "telegram_handle": "CardanoFreeStakePool"
-        }
+    "url_png_icon_64x64": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.64x64.png",
+    "url_png_logo": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
+    "location": "USA, Europe, Russia",
+    "social": {
+      "telegram_handle": "CardanoFreeStakePool"
     }
+  }
 }
