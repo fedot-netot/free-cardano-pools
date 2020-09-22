@@ -3,7 +3,7 @@
     "owner": "ed25519_pk18yyajrgmzdsxxyxxtl2tg09pd88cmwa66hv82j3tfpeuz4e07qeqc8mkc8",
     "witness": "ed25519_sig16gffkk36c3vldj8rarqqvy9jl4cplwgrlslm055ff667k62p8qs6h4u40xvudjwwve6fl9kshe8kc75mvqceyye6dup0a2kp2hdngps2a35gc"
   },
-  "adapools": {
+  "info": {
         "url_png_icon_64x64": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.64x64.png",
         "url_png_logo": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
         "location": "USA, Europe, Russia",
