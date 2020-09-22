@@ -8,12 +8,7 @@
         "url_png_logo": "https://fedot-netot.github.io/free-cardano-pools/icons/FREE_logo.png",
         "location": "USA, Europe, Russia",
         "social": {
-            "twitter_handle": "",
-            "telegram_handle": "CardanoFreeStakePool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": ""
+            "telegram_handle": "CardanoFreeStakePool"
         }
     }
 }
