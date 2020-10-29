@@ -1,6 +1,6 @@
-# Cardano FREE stake pools
+# Cardano FREE1 stake pool
 
-This is the Cardano Free stake pools home page.
+This is the Cardano FREE1 stake pool home page.
 
 Our team of Cardano enthusiasts is happy to welcome you! We have supported the operation of several
 stake pools in the ITN network since the very first days of this test network. Now after the
@@ -11,7 +11,7 @@ We won't reveal a secret if we say that maintaining a pool is now a fairly simpl
 specialist. For us, maintaining the pool and supporting the Cardano network is more of a hobby and
 fun than a profitable project, at least for the next year or two. Therefore, we intend to keep the
 pool margin equal to 0% until the pool becomes saturated (we hope that this will happen
-sometime). Our plan is to support our pools responsibly and earn a reputation as a reliable pool
+sometime). Our plan is to support our pool responsibly and earn a reputation as a reliable pool
 among delegates.
 
 Now we have registered a stake pool with the Ticker `FREE1` and *ID*:
