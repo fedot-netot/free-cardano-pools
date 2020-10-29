@@ -26,3 +26,5 @@ You can follow the news of our stake pool in the [Telegram channel](https://t.me
 Feel free to ask any question in the linked conversation group.
 
 *Thank you for your support!*
+
+![](icons/Cardano_logo.svg)
